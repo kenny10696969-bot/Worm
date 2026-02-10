@@ -1,0 +1,5 @@
+{
+  "api_key": "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",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "deepseek/deepseek-chat"
+}
